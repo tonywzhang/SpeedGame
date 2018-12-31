@@ -2,7 +2,7 @@
 
 Thanks for visiting my Speed Game Repository!
 
-I'll be using this space to produce a typing game using JavaScript.
+I'll be using this space to produce a typing game using JavaScript. The game can be played [here](https://tonywzhang.github.io/SpeedGame/).
 
 The User will have a set amount of time per each word. If the user incorrectly types in the word, or runs out of time for that specific word, the game will then be over.
 
